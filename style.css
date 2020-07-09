@@ -1,0 +1,33 @@
+body {
+  background-image: url("img/bg-yggdrasil.jpg");
+  background-repeat: repeat-y;
+  background-attachment: fixed;
+  background-size: 100%;
+  color: #000000;
+}
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.bg-kviz-light {
+  background-color:#FFD600!important
+}
+.bg-kviz-medium {
+  background-color:#D3AF37!important
+}
+.bg-kviz-dark {
+  background-color:#84754E!important
+}
+.text-kviz-light {
+  color:#FFD600!important
+}
+.text-kviz-medium {
+  color:#D3AF37!important
+}
+.text-kviz-dark {
+  color:#84754E!important
+}
+.bg50-white {
+  background-color: rgba(255,255,255,0.9);
+}
